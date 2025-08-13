@@ -15,13 +15,13 @@ Features</p>
 <li>Google Fonts: The "Inter" font is used to give the website a clean and professional typographic style.</li>
 <h1>How to Use</h1>
 
-To view this website, simply follow these steps:
+<a href= "https://jeffmoses.github.io/J-TSOLUTIONS_PORTFOLIO/" >To view this website </a>, simply follow these steps:
 Copy the entire HTML code from the immersive document.
 Paste the code into a new text file.
 Save the file with a .html extension (e.g., index.html).
 Open the file in any web browser (Chrome, Firefox, Safari, etc.).
-The website will load locally, and you can see a fully functional version of the portfolio. The contact links for WhatsApp and email are active and will work as expected.
-Contact
+<P>The website will load locally, and you can see a fully functional version of the portfolio. The contact links for WhatsApp and email are active and will work as expected.</p>
+<h1>Contact</h1>
 WhatsApp: 0783433535 (Clickable link on the website)
 Email: solutionsjefftech@gmail.com (Clickable link on the website)
 YouTube: http://www.youtube.com/@J-TSolutions (Clickable link on the website)
