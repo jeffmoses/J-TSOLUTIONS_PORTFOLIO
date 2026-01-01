@@ -16,6 +16,7 @@ Features</p>
 <h1>How to Use</h1>
 
 <a href= "https://jeffmoses.github.io/J-TSOLUTIONS_PORTFOLIO/" >To view this website </a>, 
-WhatsApp: 0783433535 (Clickable link on the website)
-Email: solutionsjefftech@gmail.com (Clickable link on the website)
-YouTube: http://www.youtube.com/@J-TSolutions (Clickable link on the website)
+WhatsApp: 0783433535 
+Email: solutionsjefftech@gmail.com 
+YouTube: http://www.youtube.com/@J-TSolutions 
+TikTok: https://www.tiktok.com/@jtsolutions1?is_from_webapp=1&sender_device=pc
