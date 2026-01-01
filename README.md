@@ -15,7 +15,7 @@ Features</p>
 <li>Google Fonts: The "Inter" font is used to give the website a clean and professional typographic style.</li>
 <h1>How to Use</h1>
 
-<a href= "https://jeffmoses.github.io/J-TSOLUTIONS_PORTFOLIO/" >To view this website </a>, 
+<a href= "https://jtsolution.vercel.app/" >To view this website </a>, 
 WhatsApp: 0783433535 
 Email: solutionsjefftech@gmail.com 
 YouTube: http://www.youtube.com/@J-TSolutions 
